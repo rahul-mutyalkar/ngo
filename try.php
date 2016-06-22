@@ -1,5 +1,1 @@
-<?php 
-
-echo "Helllllloooooooo guys"
-
-?>
+<?php echo "Helllllloooooooo guys"?>
